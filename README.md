@@ -1,4 +1,3 @@
 # C# & .NET Studies
 
-This repository documents my learning journey in C# and .NET,
-focusing on backend development.
+Repository containing exercises and small projects developed during my C# course
