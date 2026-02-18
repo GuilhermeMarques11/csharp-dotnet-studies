@@ -1,0 +1,15 @@
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\bin\Debug\net8.0\PensionRentalSystem.exe
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\bin\Debug\net8.0\PensionRentalSystem.deps.json
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\bin\Debug\net8.0\PensionRentalSystem.runtimeconfig.json
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\bin\Debug\net8.0\PensionRentalSystem.dll
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\bin\Debug\net8.0\PensionRentalSystem.pdb
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\PensionRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\PensionRentalSystem.AssemblyInfoInputs.cache
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\PensionRentalSystem.AssemblyInfo.cs
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\PensionRentalSystem.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\PensionRentalSystem.sourcelink.json
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\PensionRentalSystem.dll
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\refint\PensionRentalSystem.dll
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\PensionRentalSystem.pdb
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\PensionRentalSystem.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\csharp-dotnet-studies\PensionRentalSystem\obj\Debug\net8.0\ref\PensionRentalSystem.dll
