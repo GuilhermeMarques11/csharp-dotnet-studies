@@ -1,2 +1,4 @@
-# csharp-dotnet-studies
-Exercises and projects from my C# course
+# C# & .NET Studies
+
+This repository documents my learning journey in C# and .NET,
+focusing on backend development.
