@@ -1,16 +1,13 @@
-# Pension Rental System – Console Application
+## Pension Rental System
 
-Console application developed in C# as part of my studies.
+A simple C# console application designed to manage room rentals for a boarding house (pension). It allows the user to register students into specific rooms and displays a summary of occupied rooms.
 
 ## Description
 
-This system simulates room rentals in a small boarding house with 10 rooms.
+The program uses an array of 10 positions to represent available rooms (numbered 0 to 9). For each rental, the user provides:
 
-Each room can be assigned to a student, and at the end the program displays the occupied rooms.
+- The student's Name
+- The student's Email
+- The chosen Room Number
 
-## Concepts Practiced
-
-- Arrays
-- Object instantiation
-- Loop structures
-- Override of ToString()
+At the end of the input process, the application iterates through the rooms and prints a report showing only the occupied rooms in ascending order.
