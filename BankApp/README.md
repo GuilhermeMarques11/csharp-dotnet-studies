@@ -2,22 +2,16 @@
 
 Console application developed in C# to practice Object-Oriented Programming concepts.
 
-## Concepts Applied
+## Description
 
-- Encapsulation
-- Constructor overloading
-- Business rules implementation
-- Method abstraction
-- Namespace organization
-- Culture handling with InvariantCulture
+This application allows the user to:
 
-## Business Rules
+- Enter a bank account number
+- Provide the account holder's name
+- Choose whether to make an initial deposit
+- Create the account with or without an initial balance
+- Perform additional deposits
+- Perform withdrawals
+- View updated account information after each operation
 
-- Initial deposit is optional
-- Withdrawals include a fixed fee of $5.00
-- Balance cannot be directly modified (private setter)
-
-## Purpose
-
-This project is part of my transition from Front-End to Fullstack development,
-focusing on backend fundamentals with C# and .NET.
+During withdrawals, a fee is applied according to the business rules defined in the BankAccount class.
