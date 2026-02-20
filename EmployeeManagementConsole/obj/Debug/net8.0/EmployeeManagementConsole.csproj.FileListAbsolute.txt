@@ -1,0 +1,14 @@
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\bin\Debug\net8.0\EmployeeManagementConsole.exe
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\bin\Debug\net8.0\EmployeeManagementConsole.deps.json
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\bin\Debug\net8.0\EmployeeManagementConsole.runtimeconfig.json
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\bin\Debug\net8.0\EmployeeManagementConsole.dll
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\bin\Debug\net8.0\EmployeeManagementConsole.pdb
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\obj\Debug\net8.0\EmployeeManagementConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\obj\Debug\net8.0\EmployeeManagementConsole.AssemblyInfoInputs.cache
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\obj\Debug\net8.0\EmployeeManagementConsole.AssemblyInfo.cs
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\obj\Debug\net8.0\EmployeeManagementConsole.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\obj\Debug\net8.0\EmployeeManagementConsole.dll
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\obj\Debug\net8.0\refint\EmployeeManagementConsole.dll
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\obj\Debug\net8.0\EmployeeManagementConsole.pdb
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\obj\Debug\net8.0\EmployeeManagementConsole.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\EmployeeManagementConsole\obj\Debug\net8.0\ref\EmployeeManagementConsole.dll
