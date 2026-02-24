@@ -1,0 +1,14 @@
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\bin\Debug\net8.0\MatrixNeighborSearch.exe
+C:\dev\csharp\Exercicios\MatrixNeighborSearch\bin\Debug\net8.0\MatrixNeighborSearch.deps.json
+C:\dev\csharp\Exercicios\MatrixNeighborSearch\bin\Debug\net8.0\MatrixNeighborSearch.runtimeconfig.json
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\bin\Debug\net8.0\MatrixNeighborSearch.dll
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\bin\Debug\net8.0\MatrixNeighborSearch.pdb
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\obj\Debug\net8.0\MatrixNeighborSearch.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\obj\Debug\net8.0\MatrixNeighborSearch.AssemblyInfoInputs.cache
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\obj\Debug\net8.0\MatrixNeighborSearch.AssemblyInfo.cs
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\obj\Debug\net8.0\MatrixNeighborSearch.csproj.CoreCompileInputs.cache
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\obj\Debug\net8.0\MatrixNeighborSearch.dll
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\obj\Debug\net8.0\refint\MatrixNeighborSearch.dll
+c:\dev\csharp\Exercicios\MatrixNeighborSearch\obj\Debug\net8.0\MatrixNeighborSearch.pdb
+C:\dev\csharp\Exercicios\MatrixNeighborSearch\obj\Debug\net8.0\MatrixNeighborSearch.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\MatrixNeighborSearch\obj\Debug\net8.0\ref\MatrixNeighborSearch.dll
