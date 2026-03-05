@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WorkerIncomeCalculator/1.0.0": {
+        "runtime": {
+          "WorkerIncomeCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkerIncomeCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

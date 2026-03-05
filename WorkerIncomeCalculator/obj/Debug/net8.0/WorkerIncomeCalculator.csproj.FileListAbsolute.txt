@@ -1,0 +1,14 @@
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\bin\Debug\net8.0\WorkerIncomeCalculator.exe
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\bin\Debug\net8.0\WorkerIncomeCalculator.deps.json
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\bin\Debug\net8.0\WorkerIncomeCalculator.runtimeconfig.json
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\bin\Debug\net8.0\WorkerIncomeCalculator.dll
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\bin\Debug\net8.0\WorkerIncomeCalculator.pdb
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\obj\Debug\net8.0\WorkerIncomeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\obj\Debug\net8.0\WorkerIncomeCalculator.AssemblyInfoInputs.cache
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\obj\Debug\net8.0\WorkerIncomeCalculator.AssemblyInfo.cs
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\obj\Debug\net8.0\WorkerIncomeCalculator.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\obj\Debug\net8.0\WorkerIncomeCalculator.dll
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\obj\Debug\net8.0\refint\WorkerIncomeCalculator.dll
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\obj\Debug\net8.0\WorkerIncomeCalculator.pdb
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\obj\Debug\net8.0\WorkerIncomeCalculator.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\WorkerIncomeCalculator\obj\Debug\net8.0\ref\WorkerIncomeCalculator.dll
