@@ -1,0 +1,14 @@
+C:\dev\csharp\Exercicios\OrderManagement\bin\Debug\net8.0\OrderManagement.exe
+C:\dev\csharp\Exercicios\OrderManagement\bin\Debug\net8.0\OrderManagement.deps.json
+C:\dev\csharp\Exercicios\OrderManagement\bin\Debug\net8.0\OrderManagement.runtimeconfig.json
+C:\dev\csharp\Exercicios\OrderManagement\bin\Debug\net8.0\OrderManagement.dll
+C:\dev\csharp\Exercicios\OrderManagement\bin\Debug\net8.0\OrderManagement.pdb
+C:\dev\csharp\Exercicios\OrderManagement\obj\Debug\net8.0\OrderManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Exercicios\OrderManagement\obj\Debug\net8.0\OrderManagement.AssemblyInfoInputs.cache
+C:\dev\csharp\Exercicios\OrderManagement\obj\Debug\net8.0\OrderManagement.AssemblyInfo.cs
+C:\dev\csharp\Exercicios\OrderManagement\obj\Debug\net8.0\OrderManagement.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Exercicios\OrderManagement\obj\Debug\net8.0\OrderManagement.dll
+C:\dev\csharp\Exercicios\OrderManagement\obj\Debug\net8.0\refint\OrderManagement.dll
+C:\dev\csharp\Exercicios\OrderManagement\obj\Debug\net8.0\OrderManagement.pdb
+C:\dev\csharp\Exercicios\OrderManagement\obj\Debug\net8.0\OrderManagement.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\OrderManagement\obj\Debug\net8.0\ref\OrderManagement.dll
