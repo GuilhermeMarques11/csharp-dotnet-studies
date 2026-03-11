@@ -1,0 +1,14 @@
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\bin\Debug\net8.0\OutsourcedRegularEmployeePayroll.exe
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\bin\Debug\net8.0\OutsourcedRegularEmployeePayroll.deps.json
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\bin\Debug\net8.0\OutsourcedRegularEmployeePayroll.runtimeconfig.json
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\bin\Debug\net8.0\OutsourcedRegularEmployeePayroll.dll
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\bin\Debug\net8.0\OutsourcedRegularEmployeePayroll.pdb
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\obj\Debug\net8.0\OutsourcedRegularEmployeePayroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\obj\Debug\net8.0\OutsourcedRegularEmployeePayroll.AssemblyInfoInputs.cache
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\obj\Debug\net8.0\OutsourcedRegularEmployeePayroll.AssemblyInfo.cs
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\obj\Debug\net8.0\OutsourcedRegularEmployeePayroll.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\obj\Debug\net8.0\OutsourcedRegularEmployeePayroll.dll
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\obj\Debug\net8.0\refint\OutsourcedRegularEmployeePayroll.dll
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\obj\Debug\net8.0\OutsourcedRegularEmployeePayroll.pdb
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\obj\Debug\net8.0\OutsourcedRegularEmployeePayroll.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\OutsourcedRegularEmployeePayroll\obj\Debug\net8.0\ref\OutsourcedRegularEmployeePayroll.dll

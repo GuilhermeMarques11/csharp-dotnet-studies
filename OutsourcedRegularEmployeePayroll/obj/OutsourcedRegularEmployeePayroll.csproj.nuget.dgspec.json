@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\csharp\\Exercicios\\csharp-dotnet-studies\\OrderManagement\\OrderManagement.csproj": {}
+    "C:\\dev\\csharp\\Exercicios\\OutsourcedRegularEmployeePayroll\\OutsourcedRegularEmployeePayroll.csproj": {}
   },
   "projects": {
-    "C:\\dev\\csharp\\Exercicios\\csharp-dotnet-studies\\OrderManagement\\OrderManagement.csproj": {
+    "C:\\dev\\csharp\\Exercicios\\OutsourcedRegularEmployeePayroll\\OutsourcedRegularEmployeePayroll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\csharp\\Exercicios\\csharp-dotnet-studies\\OrderManagement\\OrderManagement.csproj",
-        "projectName": "OrderManagement",
-        "projectPath": "C:\\dev\\csharp\\Exercicios\\csharp-dotnet-studies\\OrderManagement\\OrderManagement.csproj",
+        "projectUniqueName": "C:\\dev\\csharp\\Exercicios\\OutsourcedRegularEmployeePayroll\\OutsourcedRegularEmployeePayroll.csproj",
+        "projectName": "OutsourcedRegularEmployeePayroll",
+        "projectPath": "C:\\dev\\csharp\\Exercicios\\OutsourcedRegularEmployeePayroll\\OutsourcedRegularEmployeePayroll.csproj",
         "packagesPath": "C:\\Users\\Guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\csharp\\Exercicios\\csharp-dotnet-studies\\OrderManagement\\obj\\",
+        "outputPath": "C:\\dev\\csharp\\Exercicios\\OutsourcedRegularEmployeePayroll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
