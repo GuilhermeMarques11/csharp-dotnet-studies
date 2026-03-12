@@ -1,0 +1,14 @@
+C:\dev\csharp\Exercicios\ProductPriceTags\bin\Debug\net8.0\ProductPriceTags.exe
+C:\dev\csharp\Exercicios\ProductPriceTags\bin\Debug\net8.0\ProductPriceTags.deps.json
+C:\dev\csharp\Exercicios\ProductPriceTags\bin\Debug\net8.0\ProductPriceTags.runtimeconfig.json
+C:\dev\csharp\Exercicios\ProductPriceTags\bin\Debug\net8.0\ProductPriceTags.dll
+C:\dev\csharp\Exercicios\ProductPriceTags\bin\Debug\net8.0\ProductPriceTags.pdb
+C:\dev\csharp\Exercicios\ProductPriceTags\obj\Debug\net8.0\ProductPriceTags.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Exercicios\ProductPriceTags\obj\Debug\net8.0\ProductPriceTags.AssemblyInfoInputs.cache
+C:\dev\csharp\Exercicios\ProductPriceTags\obj\Debug\net8.0\ProductPriceTags.AssemblyInfo.cs
+C:\dev\csharp\Exercicios\ProductPriceTags\obj\Debug\net8.0\ProductPriceTags.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Exercicios\ProductPriceTags\obj\Debug\net8.0\ProductPriceTags.dll
+C:\dev\csharp\Exercicios\ProductPriceTags\obj\Debug\net8.0\refint\ProductPriceTags.dll
+C:\dev\csharp\Exercicios\ProductPriceTags\obj\Debug\net8.0\ProductPriceTags.pdb
+C:\dev\csharp\Exercicios\ProductPriceTags\obj\Debug\net8.0\ProductPriceTags.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\ProductPriceTags\obj\Debug\net8.0\ref\ProductPriceTags.dll
