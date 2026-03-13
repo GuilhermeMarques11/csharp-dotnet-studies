@@ -1,0 +1,14 @@
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\bin\Debug\net8.0\IndividualAndCompanyTaxes.exe
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\bin\Debug\net8.0\IndividualAndCompanyTaxes.deps.json
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\bin\Debug\net8.0\IndividualAndCompanyTaxes.runtimeconfig.json
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\bin\Debug\net8.0\IndividualAndCompanyTaxes.dll
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\bin\Debug\net8.0\IndividualAndCompanyTaxes.pdb
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\obj\Debug\net8.0\IndividualAndCompanyTaxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\obj\Debug\net8.0\IndividualAndCompanyTaxes.AssemblyInfoInputs.cache
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\obj\Debug\net8.0\IndividualAndCompanyTaxes.AssemblyInfo.cs
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\obj\Debug\net8.0\IndividualAndCompanyTaxes.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\obj\Debug\net8.0\IndividualAndCompanyTaxes.dll
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\obj\Debug\net8.0\refint\IndividualAndCompanyTaxes.dll
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\obj\Debug\net8.0\IndividualAndCompanyTaxes.pdb
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\obj\Debug\net8.0\IndividualAndCompanyTaxes.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\IndividualAndCompanyTaxes\obj\Debug\net8.0\ref\IndividualAndCompanyTaxes.dll
