@@ -1,0 +1,14 @@
+C:\dev\csharp\Exercicios\WithdrawExceptions\bin\Debug\net8.0\WithdrawExceptions.exe
+C:\dev\csharp\Exercicios\WithdrawExceptions\bin\Debug\net8.0\WithdrawExceptions.deps.json
+C:\dev\csharp\Exercicios\WithdrawExceptions\bin\Debug\net8.0\WithdrawExceptions.runtimeconfig.json
+C:\dev\csharp\Exercicios\WithdrawExceptions\bin\Debug\net8.0\WithdrawExceptions.dll
+C:\dev\csharp\Exercicios\WithdrawExceptions\bin\Debug\net8.0\WithdrawExceptions.pdb
+C:\dev\csharp\Exercicios\WithdrawExceptions\obj\Debug\net8.0\WithdrawExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Exercicios\WithdrawExceptions\obj\Debug\net8.0\WithdrawExceptions.AssemblyInfoInputs.cache
+C:\dev\csharp\Exercicios\WithdrawExceptions\obj\Debug\net8.0\WithdrawExceptions.AssemblyInfo.cs
+C:\dev\csharp\Exercicios\WithdrawExceptions\obj\Debug\net8.0\WithdrawExceptions.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Exercicios\WithdrawExceptions\obj\Debug\net8.0\WithdrawExceptions.dll
+C:\dev\csharp\Exercicios\WithdrawExceptions\obj\Debug\net8.0\refint\WithdrawExceptions.dll
+C:\dev\csharp\Exercicios\WithdrawExceptions\obj\Debug\net8.0\WithdrawExceptions.pdb
+C:\dev\csharp\Exercicios\WithdrawExceptions\obj\Debug\net8.0\WithdrawExceptions.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\WithdrawExceptions\obj\Debug\net8.0\ref\WithdrawExceptions.dll
