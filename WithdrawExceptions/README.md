@@ -1,4 +1,4 @@
-## Bank Account Exception
+## Withdraw Exceptions
 
 Console application developed in C# to simulate bank account withdrawals with custom error handling.
 The program validates withdrawal rules, such as sufficient balance and withdrawal limits, using a specialized exception structure to ensure the application's robustness.
