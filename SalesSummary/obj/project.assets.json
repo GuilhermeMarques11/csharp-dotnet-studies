@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\csharp\\Exercicios\\SalesSummary\\SalesSummary.csproj",
+      "projectUniqueName": "C:\\dev\\csharp\\Exercicios\\csharp-dotnet-studies\\SalesSummary\\SalesSummary.csproj",
       "projectName": "SalesSummary",
-      "projectPath": "C:\\dev\\csharp\\Exercicios\\SalesSummary\\SalesSummary.csproj",
+      "projectPath": "C:\\dev\\csharp\\Exercicios\\csharp-dotnet-studies\\SalesSummary\\SalesSummary.csproj",
       "packagesPath": "C:\\Users\\Guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\csharp\\Exercicios\\SalesSummary\\obj\\",
+      "outputPath": "C:\\dev\\csharp\\Exercicios\\csharp-dotnet-studies\\SalesSummary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

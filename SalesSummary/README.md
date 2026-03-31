@@ -9,13 +9,13 @@ Este é um programa simples em C# que lê um arquivo CSV contendo dados de produ
 - Exportação: Gera um arquivo summary.csv com o nome do produto e o valor total formatado.
 
 ## Estrutura de Arquivos
-Entrada Esperada
 O arquivo de origem deve seguir o formato nome,preço,quantidade:
 
 Cadeira,50.00,3
 Monitor,1200.50,2
 Teclado,150.00,1
 Saída Gerada
+
 O programa criará um arquivo em ./out/summary.csv:
 
 Cadeira, 150.00
