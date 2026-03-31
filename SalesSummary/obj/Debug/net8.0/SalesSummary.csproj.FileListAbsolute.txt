@@ -1,0 +1,14 @@
+C:\dev\csharp\Exercicios\SalesSummary\bin\Debug\net8.0\SalesSummary.exe
+C:\dev\csharp\Exercicios\SalesSummary\bin\Debug\net8.0\SalesSummary.deps.json
+C:\dev\csharp\Exercicios\SalesSummary\bin\Debug\net8.0\SalesSummary.runtimeconfig.json
+C:\dev\csharp\Exercicios\SalesSummary\bin\Debug\net8.0\SalesSummary.dll
+C:\dev\csharp\Exercicios\SalesSummary\bin\Debug\net8.0\SalesSummary.pdb
+C:\dev\csharp\Exercicios\SalesSummary\obj\Debug\net8.0\SalesSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Exercicios\SalesSummary\obj\Debug\net8.0\SalesSummary.AssemblyInfoInputs.cache
+C:\dev\csharp\Exercicios\SalesSummary\obj\Debug\net8.0\SalesSummary.AssemblyInfo.cs
+C:\dev\csharp\Exercicios\SalesSummary\obj\Debug\net8.0\SalesSummary.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Exercicios\SalesSummary\obj\Debug\net8.0\SalesSummary.dll
+C:\dev\csharp\Exercicios\SalesSummary\obj\Debug\net8.0\refint\SalesSummary.dll
+C:\dev\csharp\Exercicios\SalesSummary\obj\Debug\net8.0\SalesSummary.pdb
+C:\dev\csharp\Exercicios\SalesSummary\obj\Debug\net8.0\SalesSummary.genruntimeconfig.cache
+C:\dev\csharp\Exercicios\SalesSummary\obj\Debug\net8.0\ref\SalesSummary.dll
