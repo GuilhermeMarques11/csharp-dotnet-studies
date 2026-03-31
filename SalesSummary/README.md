@@ -1,20 +1,22 @@
-## Sales summary
+## Sales Summary
 
-Este é um programa simples em C# que lê um arquivo CSV contendo dados de produtos, calcula o valor total de cada item (preço × quantidade) e gera um novo arquivo de resumo em uma subpasta específica.
+This is a simple C# program that reads a CSV file containing product data, calculates the total value of each item (price × quantity), and generates a new summary file in a specific subfolder.
 
-## Funcionalidades
-- Leitura de Dados: Processa arquivos .csv com campos separados por vírgula.
-- Cálculo Automático: Instancia objetos Product para calcular o valor total do estoque por item.
-- Organização de Saída: Cria automaticamente uma pasta chamada out no diretório de origem.
-- Exportação: Gera um arquivo summary.csv com o nome do produto e o valor total formatado.
+## Features
 
-## Estrutura de Arquivos
-O arquivo de origem deve seguir o formato nome, preço, quantidade:
+Data Reading: Processes .csv files with comma-separated fields.
+Automatic Calculation: Instantiates Product objects to calculate the total stock value per item.
+Output Organization: Automatically creates a folder named out in the source directory.
+Export: Generates a summary.csv file with the product name and the formatted total value.
 
-Cadeira, 50.00, 3
+## File Structure
 
-Saída Gerada:
+The source file must follow the format: name, price, quantity:
 
-O programa criará um arquivo em ./out/summary.csv:
+Chair, 50.00, 3
 
-Cadeira, 150.00
+Generated Output:
+
+The program will create a file at ./out/summary.csv:
+
+Chair, 150.00
