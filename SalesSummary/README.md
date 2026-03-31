@@ -12,12 +12,8 @@ Este é um programa simples em C# que lê um arquivo CSV contendo dados de produ
 O arquivo de origem deve seguir o formato nome,preço,quantidade:
 
 Cadeira,50.00,3
-Monitor,1200.50,2
-Teclado,150.00,1
-Saída Gerada
 
+Saída Gerada
 O programa criará um arquivo em ./out/summary.csv:
 
 Cadeira, 150.00
-Monitor, 2401.00
-Teclado, 150.00
